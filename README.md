@@ -57,7 +57,7 @@ I analysed booking counts, cancellation patterns, average ADR, lead time, hotel 
 I used Power BI to create an interactive dashboard with KPI cards, filters, and charts to make the results easier to explore.
 ### Dashboard Preview
 
-![Hotel Booking Dashboard](../dashboard_preview.png)
+![Hotel Booking Dashboard](dashboard_preview.png.png)
 
 ## Key Findings
 
