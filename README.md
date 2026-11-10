@@ -84,32 +84,20 @@ City Hotels received more bookings than Resort Hotels. The cancellation rate was
 - Visual Studio Code – Python development
 
 ## Project Structure
-
-```text
-Hotel_Booking_Analytics/
+ Hotel-Booking-Analytics/
 │
-├── Dataset/
-│   ├── hotel_bookings.csv
-│   └── cleaned_hotel_bookings.csv
-│
-├── Python_Analysis/
-│   ├── README.md
-│   ├── 01_dataset_inspection.py
-│   ├── 02_data_quality_check.py
-│   ├── 03_anomaly_inspection.py
-│   ├── 04_data_cleaning.py
-│   ├── 05_validate_cleaned_data.py
-│   ├── 06_eda_analysis.py
-│   ├── 07_eda_visualizations.py
-│   └── Charts/
-│       ├── 01_hotel_booking_count.png
-│       ├── 02_cancellation_rate.png
-│       └── 03_monthly_booking_trend.png
-│
-├── dashboard_preview.png
-└── Hotel_Booking_Analytics_Dashboard.pbix
-```
-
+├── 01_dataset_inspection.py
+├── 02_data_quality_check.py
+├── 03_anomaly_inspection.py
+├── 04_data_cleaning.py
+├── 05_validate_cleaned_data.py
+├── 06_eda_analysis.py
+├── 07_eda_visualizations.py
+├── hotel_bookings.csv
+├── cleaned_hotel_bookings.csv
+├── dashboard_preview.png.png
+├── Hotel_Booking_Analytics_Dashboard.pbix
+└── README.md
 ## What I Learned
 
 Working on this project helped me practise the complete data analytics process, from inspecting and cleaning raw data to exploring patterns and presenting findings through a Power BI dashboard.
